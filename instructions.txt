@@ -1,0 +1,4 @@
+Hello! Welcome to my rock, paper, scissors game!
+
+Type in an option (rock, paper, or scissors) and play against a random selection made by the computer!
+Take a gander at winning! Enjoy!
