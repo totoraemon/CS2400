@@ -1,3 +1,6 @@
+// Name : Joseline Ly
+// This program will allow a user to play RPS against a computer.
+
 import java.util.Random;
 import java.util.Scanner;
 public class RockPaperScissors {
