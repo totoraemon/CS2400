@@ -17,7 +17,7 @@ public class RockPaperScissors {
                 if (playerMove.equals("rock") || playerMove.equals("paper") || playerMove.equals("scissors")) {
                     break;
                 }
-                System.out.println(playerMove + " is an invalid move.");
+                System.out.println(playerMove + " is not a valid move.");
             }
             
             System.out.println("Computer played: " + computerMove);
